@@ -5,6 +5,7 @@ Gives a detailed explanation of working with simple and complex JSON structures 
 ## Tutorial 
 
 Read the Medium article [here](https://medium.com/flutter-community/parsing-complex-json-in-flutter-747c46655f51)
+
 Read the Medium article in Spanish [here](https://medium.com/@carlosAmillan/parseando-json-complejo-en-flutter-18d46c0eb045) by carlosAmillan
 
 ## Types of JSON structures
